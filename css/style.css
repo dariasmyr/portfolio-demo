@@ -310,7 +310,7 @@ body {
   .features-item {
     flex-basis: 45px;
   }
-  .project-slide {
+  .projects-slide {
     flex-direction: column;
   }
   .project-image {
