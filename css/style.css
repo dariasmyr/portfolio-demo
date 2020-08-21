@@ -354,7 +354,7 @@ body {
   }
   .hero-description {
     font-size: 14px;
-    line-height: 1405;
+    line-height: 140%;
   }
   .section {
     padding: 63px 0px;
